@@ -24,7 +24,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-      - run: pwd
+      
       # Runs a set of commands using the runners shell
       - name: Upload COS
         uses: TencentCloud/cos-action@v1
@@ -33,6 +33,6 @@ jobs:
           secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
           cos_bucket: ${{ secrets.COS_BUCKET }}
           cos_region: ${{ secrets.COS_REGION }}
-          local_path: 'monitor-metadata'
+          local_path: '../monitor-metadata'
           remote_path: ''
           clean: true
