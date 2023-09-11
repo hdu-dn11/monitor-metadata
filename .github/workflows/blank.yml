@@ -33,6 +33,7 @@ jobs:
           secret_key: ${{ secrets.TENCENT_CLOUD_SECRET_KEY }}
           cos_bucket: ${{ secrets.COS_BUCKET }}
           cos_region: ${{ secrets.COS_REGION }}
-          local_path: '../monitor-metadata'
-          remote_path: ''
+          local_path: 'as'
+          remote_path: 'as'
           clean: true
+
