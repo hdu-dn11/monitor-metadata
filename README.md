@@ -1,6 +1,6 @@
 # dn11 元数据
 
-用于 monitor 前段展示
+用于 monitor web展示
 
 ```json
 {
