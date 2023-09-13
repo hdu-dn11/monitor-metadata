@@ -1,3 +1,11 @@
 {
-    "display":"GoldenSheep"
+    "display": "GoldenSheep",
+    "appendix": {
+        "geo": "杭电生活区12号楼"
+    },
+    "customNode": {
+        "itemStyle": {
+            "color": "#c756ee"
+        }
+    }
 }
