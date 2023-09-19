@@ -1,5 +1,5 @@
 {
-    "display":"TypeScript",
+    "display": "TypeScript",
     "customNode": {
         "itemStyle": {
             "color": "#138385",
@@ -8,11 +8,16 @@
                 "x": 0.5,
                 "y": 0.5,
                 "r": 0.5,
-                "colorStops": [{
-                    "offset": 0, "color": "red"
-                }, {
-                    "offset": 1, "color": "blue"
-                }],
+                "colorStops": [
+                    {
+                        "offset": 0,
+                        "color": "red"
+                    },
+                    {
+                        "offset": 1,
+                        "color": "blue"
+                    }
+                ]
             },
             "borderWidth": 1,
             "borderType": "dotted",
