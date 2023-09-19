@@ -1,3 +1,26 @@
 {
-    "display":"TypeScript"
+    "display":"TypeScript",
+    "customNode": {
+        "itemStyle": {
+            "color": '#138385',
+            "borderColor": {
+                "type": 'radial',
+                "x": 0.5,
+                "y": 0.5,
+                "r": 0.5,
+                "colorStops": [{
+                    "offset": 0, "color": 'red'
+                }, {
+                    "offset": 1, "color": 'blue'
+                }],
+            },
+            "borderWidth": 1,
+            "borderType": 'dotted',
+            "borderCap": 'round',
+            "shadowBlur": 10,
+            "shadowColor": '#747E7E',
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0
+        }
+    }
 }
