@@ -1,3 +1,6 @@
 {
-    "display":"ib"
+    "display":"ib",
+    "appendix": {
+        "geo": "杭电生活区11号楼"
+    }
 }
