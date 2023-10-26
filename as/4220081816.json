@@ -1,3 +1,26 @@
 {
-    "display":"Potat0"
+    "display": "Potat0",
+    "customNode": {
+        "itemStyle": {
+            "color": "#FB8C00",
+            "borderColor": {
+                "type": "radial",
+                "x": 0.5,
+                "y": 0.5,
+                "r": 0.5,
+                "colorStops": [
+                    {
+                        "offset": 1,
+                        "color": "#E65100"
+                    }
+                ]
+            },
+            "borderWidth": 1,
+            "borderCap": "round",
+            "shadowBlur": 10,
+            "shadowColor": "#FFB74D",
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0
+        }
+    }
 }
