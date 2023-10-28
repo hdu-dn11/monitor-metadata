@@ -1,0 +1,15 @@
+{
+    "display": "Moncak",
+    "customNode": {
+        "itemStyle": {
+            "color": "#66CCFF",
+            "borderWidth": 1,
+            "borderType": "dotted",
+            "borderCap": "round",
+            "shadowBlur": 10,
+            "shadowColor": "#39C5BB",
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0
+        }
+    }
+}
