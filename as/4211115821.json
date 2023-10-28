@@ -1,6 +1,11 @@
 {
     "display":"Ljcbaby",
     "appendix": {
-        "geo": "浙江省武义县电信"
+        "geo": "\n - 浙江省武义县电信\n - 俄罗斯莫斯科JustHost\n - 上海腾讯云"
+    },
+    "customNode":{
+        "itemStyle":{
+            "color":"#ff0000"
+        }
     }
 }
