@@ -3,4 +3,9 @@
     "appendix": {
         "geo": "浙江省金华市"
     }
+    "customNode": {
+        "itemStyle": {
+            "color": "#b0e0e6"
+        }
+    }
 }
