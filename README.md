@@ -1,5 +1,7 @@
 # dn11 元数据
 
+### 本仓库封存, 请使用 [Registry](https://github.com/hdu-dn11/registry)
+
 用于 monitor web展示
 
 ```json
